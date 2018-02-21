@@ -1,2 +1,2 @@
 # MindManagerNote
-note
+note.
